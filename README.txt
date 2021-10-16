@@ -1,7 +1,6 @@
 This is Ulie Xu's portfolio website in the making!
 
 Credits:
-
     Template Designer: AJ
         aj@lkn.io | @ajlkn
 
